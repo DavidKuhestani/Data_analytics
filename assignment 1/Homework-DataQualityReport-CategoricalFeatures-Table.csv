@@ -1,0 +1,9 @@
+Feature,count,unique,top,freq,mode,%mode,2ndmode,%2ndmode,%missing,%unknown,card
+current_status,10000,2,Laboratory-confirmed case,9307,Laboratory-confirmed case,0.9307,Probable Case,0.0693,0.0,0.0,2
+sex,10000,4,Female,5213,Female,0.5213,Male,0.4706,0.15,0.66,4
+age_group,10000,10,20 - 29 Years,1846,20 - 29 Years,0.1846,30 - 39 Years,0.165,0.11,0.0,10
+race_ethnicity_combined,10000,9,Unknown,4030,Unknown,0.403,"White, Non-Hispanic",0.3344,0.99,40.3,9
+hosp_yn,10000,4,No,5221,No,0.5221,Missing,0.2333,23.33,17.92,4
+icu_yn,10000,4,Missing,7637,Missing,0.7637,Unknown,0.13,76.37,13.0,4
+death_yn,10000,2,No,9684,No,0.9684,Yes,0.0316,0.0,0.0,2
+medcond_yn,10000,4,Missing,7431,Missing,0.7431,No,0.0911,74.31,7.7,4
